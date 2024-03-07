@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">102214115</string>
+    <string name="reset">Reset</string>
+    <string name="yes_you_got_the_anwser">Yes, you got the awnser</string>
+    <string name="guess">Guess</string>
 </resources>
