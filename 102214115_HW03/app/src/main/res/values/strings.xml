@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">102214115_HW03</string>
+    <string name="id">帳號</string>
+    <string name="password">密碼</string>
+    <string name="name">姓名</string>
+    <string name="email">電子信箱</string>
+    <string name="phone">聯絡電話</string>
+    <string name="birthday">生日</string>
+    <string name="sex">性別</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="vehicle">交通工具</string>
+    <string name="car">汽車</string>
+    <string name="moto">機車</string>
+    <string name="bike">腳踏車</string>
+    <string name="MRT">大眾捷運</string>
+    <string name="send">Send</string>
+</resources>
